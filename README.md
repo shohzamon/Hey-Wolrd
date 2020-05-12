@@ -1,3 +1,3 @@
-# Hey-Wolrd
+# Hey-World
 a few words to start with GitHub
 This GitHub this is completely new stuff for me so I think It desereves to give a shot to it....
